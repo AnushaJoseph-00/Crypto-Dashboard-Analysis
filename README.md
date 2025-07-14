@@ -1,6 +1,6 @@
 # Cryptocurrency-Analysis-Dashboard
  "An interactive dashboard for cryptocurrency data analysis."
-# Cryptocurrency Dashboard Analysis
+# Cryptocurrency Analysis Dashboard
 
 This repository presents an interactive dashboard designed for comprehensive cryptocurrency data analysis.
 
