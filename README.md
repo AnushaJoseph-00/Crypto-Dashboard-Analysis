@@ -1,4 +1,4 @@
-# Crypto-Dashboard-Analysis
+# Cryptocurrency-Analysis-Dashboard
  "An interactive dashboard for cryptocurrency data analysis."
 # Cryptocurrency Dashboard Analysis
 
